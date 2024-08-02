@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "====================================="
-echo "WELCOME IN EMBABY DATABASE  :)"
+echo "WELCOME IN Your DATABASE , -->EMBABY. "
 echo "====================================="
 
 PS3="Choose waht you want: "
